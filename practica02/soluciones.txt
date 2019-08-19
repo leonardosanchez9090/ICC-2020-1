@@ -1,0 +1,18 @@
+Linea 6 y 7 en la linea numero 6 declarar las variables en orden y en la 7 darle un valor a cada una
+
+Linea 9 Escribir boolean correctamente cambiar N por n
+Linea 9 Asignar un valor correcto a boolean cambiar 0 por false
+
+Linea 10 Asignar un valor correcto al byte cambiar el numeor 128 por 127 ya que un byte puede ser a lo mas 127
+Linea 11 Asignar un valor correcto al short cambiar -32769 por -32768 ya que este ultimo es su maximo rango
+Linea 14 discrimintante esta con el tipo double por lo que x1 tambien debe ser del tipo double y no long
+Linea 14 cambiar Discriminante por discrimintante con d minuscula
+Linea 17 Escribir char correctamente, corregir Char y reemplazarlo por char
+Linea 18 Como en la linea 17 se establecieron ch1 y ch2 agregar 1 para corregirlo quedando ch1
+Linea 18 cambiar las comillas de "w" por 'w'
+
+Error en tiempo de ejecución, es un error aritmetico
+Es causado por la línea 19 en especifico por el valor de a
+Da un error por qué no se puede dividir un 0. el programa haria d / (3 - 3) (que es igual a 0) 
+Al cambiar el valor de a por un numero mayor o igual que 4 se corrige el error
+El programa ahora hace d / (4-3) lo cual es valido
