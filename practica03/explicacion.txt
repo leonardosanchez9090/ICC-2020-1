@@ -1,0 +1,19 @@
+explicacion prepost
+
+Se imprimen dos veces 17 ya que en la linea 5 se hace x - 1 se guarda quedando ahora x=19 y se imprime
+
+
+en la linea 7 se hace lo mismo x - 1 se guarda quedando x=18 y se imprime
+
+en la linea 9 de nuevo se hace x - 1 y se imprime 17 pero esta vez no se guarda y nuestra x sigue siendo 18
+
+en la linea 10 se imprime de nuevo 17 ya que como nuestra x sigue siendo 18 al restarle 1 de nuevo da 17
+
+en la linea 11 se imprime nuestra x que es igual a 18
+
+
+Explicacion operadores 
+
+en el primer resultado nos muestra el resultado de la operacion solo con los numeros enteros ya que se uso un int
+
+en el segundo resultado nos arroja el resultado de la operacion con numeros enteros y decimales ya que se uso un tipo de dato double
